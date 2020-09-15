@@ -1,0 +1,6 @@
+-e   file exists or no
+-f for check regular file or not
+-d for checking directory
+-c for character special file like text or data
+-b for block special file like binary,images or video
+-s  small s for file is empty or not
